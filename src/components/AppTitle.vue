@@ -1,6 +1,6 @@
 <template>
     <div class="ciao">
-        <h1>{{title}}</h1>
+        <span>{{title}}</span>
     </div>
 </template>
 
@@ -23,8 +23,11 @@ export default {
     text-align: center;
     padding: 10px;
     margin: 0 auto;
+    line-height: 25px;
+    font-weight: bold;
+    font-size: 20px;
 }
-h1 {
-  color: rgb(255, 178, 255);
+span {
+  color: rgb(255, 130, 255);
 }
 </style>

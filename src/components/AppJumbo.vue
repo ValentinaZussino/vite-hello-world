@@ -19,6 +19,7 @@
     height: 50vh;
     width: 100%;
     background-image: url(https://picsum.photos/1980/460?grayscale);
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
