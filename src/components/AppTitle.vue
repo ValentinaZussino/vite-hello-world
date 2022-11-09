@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="ciao">
         <h1>{{title}}</h1>
     </div>
 </template>
@@ -16,11 +16,13 @@ export default {
 </script>
 
 <style lang="css">
-div {
+
+.ciao {
     width: 80%;
     height: 50px;
     background-color: black;
     text-align: center;
+    padding: 10px;
 }
 h1 {
   color: violet;
