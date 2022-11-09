@@ -16,9 +16,9 @@
 
 <style lang="css">
 .my-jumbo {
-    height: 40vh;
+    height: 50vh;
     width: 100%;
-    background-color: violet;
+    background-image: url(https://picsum.photos/1980/460?grayscale);
     display: flex;
     justify-content: center;
     align-items: center;

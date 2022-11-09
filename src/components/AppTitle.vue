@@ -25,6 +25,6 @@ export default {
     margin: 0 auto;
 }
 h1 {
-  color: violet;
+  color: rgb(255, 178, 255);
 }
 </style>
