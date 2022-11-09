@@ -16,13 +16,13 @@ export default {
 </script>
 
 <style lang="css">
-
 .ciao {
     width: 80%;
     height: 50px;
     background-color: black;
     text-align: center;
     padding: 10px;
+    margin: 0 auto;
 }
 h1 {
   color: violet;
